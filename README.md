@@ -187,7 +187,7 @@ local accessories = {
     ["Dark Coat"] = { x = 5259, y = 40, z = 4711, sea = "Sea 1", island = "Fountain City", desc = "Preço: $20,000\nOnde ir: Kingdom.\nO que fazer: Pague $20,000." },
     ["Winged Hat"] = { x = -4851, y = 800, z = -2561, sea = "Sea 1", island = "Skylands", desc = "Preço: $50,000\nOnde ir: Skypiea.\nO que fazer: Pague $50,000." },
     ["Black Cape"] = { x = -4851, y = 800, z = -2561, sea = "Sea 1", island = "Skylands", desc = "Preço: $50,000\nOnde ir: Skypiea.\nO que fazer: Pague $50,000." },
-    ["Swan Glasses"] = { x = -2247, y = 73, z = -1671, sea = "Sea 2", island = "Kingdom of Rose", desc = "Drop: Garantido (Don Swan)\nOnde ir: Mansion.\nO que fazer: Dê fruta de 1M pro Trevor e derrote Don Swan." },
+    ["Swan Glasses"] = { x = -390, y = 322, z = 673, sea = "Sea 2", island = "Mansion (Kingdom of Rose)", desc = "Drop: 2.5% (Don Swan)\nOnde ir: Vá para o topo do Kingdom of Rose, acima do Café.\nO que fazer: Fale com o Trevor, entregue uma fruta de 1M+ (precisa ser level 1000) para abrir a Swan's Room. Derrote o Don Swan." },
     ["Tomoe Ring"] = { x = -2247, y = 73, z = -1671, sea = "Sea 2", island = "Kingdom of Rose", desc = "Drop: Garantido (Swan Pirate)\nOnde ir: Kingdom of Rose.\nO que fazer: Derrote Swan Pirate." },
     ["Cool Shades S2"] = { x = -6224, y = 16, z = -4902, sea = "Sea 2", island = "Hot and Cold", desc = "Drop: Garantido (Yeti)\nOnde ir: Hot and Cold.\nO que fazer: Derrote Yeti." },
     ["Choppa"] = { x = -5312, y = 12, z = 8531, sea = "Sea 1", island = "Magma Village", desc = "Drop: Garantido (Magma Admiral)\nOnde ir: Magma Village.\nO que fazer: Derrote Magma Admiral." },
